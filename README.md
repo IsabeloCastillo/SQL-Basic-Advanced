@@ -1,4 +1,5 @@
 # SQL BASIC AND ADVANCED
+
 ![Descripción de la imagen](/sql_basic_and_advanced/imagen_portada_sql.png)
 
 
